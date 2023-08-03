@@ -1,2 +1,1 @@
-- 👋 Hello, i'm 4xvnico, better known online as StoneNicolas93 or 4xnico on some places.
-- 🌙 I develop Roblox scripts such as Nocturne, which is currently in development.
+- 👋 Hello!
